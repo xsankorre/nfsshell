@@ -19,5 +19,5 @@ cd /opt
 git clone https://github.com/xsankorre/nfsshell.git
 sudo chown -R $USER: nfsshell
 cd nfsshell 
-./nfsshell
+./run.sh
 ```
